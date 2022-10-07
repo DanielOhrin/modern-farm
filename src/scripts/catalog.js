@@ -13,3 +13,6 @@ export const Catalog = (cropYield) => {
     }
 }
 
+
+//use querySelector next time
+
